@@ -1,6 +1,8 @@
 # Bitops Operations Repo
 
-Welcome to Bitops! This serves as a starting point for deploying your application to the cloud.
+This template will build a wordpress blog site for you to blog on! 
+
+Ensure your AWS ACCESS KEY and SECRET are set as env vars. Run the command below, than in the AWS Cloudformation webconsole, watch your deployment go! 
 
 This repo can be run as is with
 ```
