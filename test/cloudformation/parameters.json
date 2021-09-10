@@ -3,5 +3,30 @@
       "ParameterKey": "BucketName",
       "ParameterValue": "wp-tut-learning-bucket",
       "UsePreviousValue": false
+    },
+    {
+      "ParameterKey": "KeyName",
+      "ParameterValue": "wordpresskey",
+      "UsePreviousValue": false
+    },
+    {
+      "ParameterKey": "DBName",
+      "ParameterValue": "wordpressdb",
+      "UsePreviousValue": false
+    },
+    {
+      "ParameterKey": "DBUser",
+      "ParameterValue": "wordpressuser",
+      "UsePreviousValue": false
+    },
+    {
+      "ParameterKey": "DBPassword",
+      "ParameterValue": "wordpresspass",
+      "UsePreviousValue": false
+    },
+    {
+      "ParameterKey": "DBRootPassword",
+      "ParameterValue": "wordpressrootpass",
+      "UsePreviousValue": false
     }
 ]
